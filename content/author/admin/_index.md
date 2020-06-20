@@ -6,12 +6,12 @@ name = "Dwight Anderson Williams II, PhD"
 superuser = true
 
 # Role/position
-role = "Future Postdoc Research Associate"
+role = "Postdoc Research Associate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-#organizations = [ { name = "", url = "https://math.iastate.edu/#2019/09/26/math-professor-secures-1-5-million-nsf-grant-to-#study-the-successful-experiences-of-students-of-color-in-math-#ph-d-programs/" }]
-organizatons = [{name = "Iowa State University", url = "https://math.iastate.edu/"}]
+organizations = [ { name = "Iowa State University", url = "https://math.iastate.edu/#2019/09/26/math-professor-secures-1-5-million-nsf-grant-to-#study-the-successful-experiences-of-students-of-color-in-math-#ph-d-programs/" }]
+#organizatons = [{name = "Iowa State University", url = "https://math.iastate.edu/"}]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "MathDwight is the name. MathChange is the vision."
@@ -90,6 +90,6 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-That's me on the left: I'm a future postdoc research associate at Iowa State University preparing to work with [Michael Young](https://orion.math.iastate.edu/myoung/) on [challenging and improving graduate math programs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920753&HistoricalAwards=false) and with [Jonas Hartwig](http://jthartwig.net/) exploring (super)algebraic structures and their physical applications. My PhD was completed at The University of Texas at Arlington under the advisement of [Dimitar Grantcharov](http://wweb.uta.edu/faculty/grandim/) in the areas of [Lie superalgebras](files/DictionaryOnLieSuperalgebras_Frappat.pdf#defLiesuper) and [representation theory](http://math.mit.edu/research/pure/representation.php).
+That's me on the left: I'm an incoming postdoc research associate at Iowa State University preparing to work with [Michael Young](https://orion.math.iastate.edu/myoung/) on [challenging and improving graduate math programs](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920753&HistoricalAwards=false) and with [Jonas Hartwig](http://jthartwig.net/) exploring (super)algebraic structures and their physical applications. My PhD was completed at The University of Texas at Arlington under the advisement of [Dimitar Grantcharov](http://wweb.uta.edu/faculty/grandim/) in the areas of [Lie superalgebras](files/DictionaryOnLieSuperalgebras_Frappat.pdf#defLiesuper) and [representation theory](http://math.mit.edu/research/pure/representation.php).
 <!--See my [vita](https://mathdwight.com/files/DWilliamsII_CV_2020.pdf) for progress in this journey.--> <br>
 On the right is [my mentor Dr. Roselyn Williams](http://famu.edu/index.cfm?math&RoselynPublication) in Denver for JMM 2020! She's amazing!
