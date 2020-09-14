@@ -15,9 +15,9 @@ weight = 60
 
 +++
 *Current Projects & Interests*
-graduate student wellness & institutional impact
-orthosymplectic Lie superalgebras<br>
-infinite-dimensional representation theory of algebras<br>
+algebras acting on primitive vectors
+graduate student wellness & institutional impact<br>
+infinite-dimensional representation theory of orthosymplectic algebras<br>
 reduction algebras<br>
 Adinkras<br>
 
